@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
-- 📝 I regularly write articles on [https://jonas-rocha.com/?utm_source=github&utm_medium=social&utm_campaign=profile](jonas-rocha.com)
+- 📝 I regularly write articles on [www.jonas-rocha.com]([jonas-rocha.com](https://jonas-rocha.com/?utm_source=github&utm_medium=social&utm_campaign=readme))
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jonasrocha/](linkedin.com/in/jonasrocha/)
+- 📄 Know about my experiences [www.linkedin.com/in/jonasrocha/]([linkedin.com/in/jonasrocha/](https://www.linkedin.com/in/jonasrocha/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
