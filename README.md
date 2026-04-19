@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Jonas Rocha</h1>
 <h3>A passionate Data Analyst and Business Analyst</h3>
 
-- 🌱 I’m currently learning **Data Science, Business Analytics and AI**
+- 🌱 I’m currently learning **Data Science, Data Engineerning and AI**
 
 - 📝 I write articles on [www.jonas-rocha.com](https://jonas-rocha.com/?utm_source=github&utm_medium=social&utm_campaign=readme)
 
